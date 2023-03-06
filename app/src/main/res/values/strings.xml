@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hm_6_4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_0">0</string>
+    <string name="increas">increas</string>
+    <string name="decrease">decrease</string>
+</resources>
